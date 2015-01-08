@@ -1,0 +1,16 @@
+{
+  "name": "lodash",
+  "version": "3.0.0-pre",
+  "main": "main.js",
+  "private": true,
+  "volo": {
+    "type": "directory",
+    "ignore": [
+      ".*",
+      "*.log",
+      "*.md",
+      "coverage",
+      "node_modules"
+    ]
+  }
+}
